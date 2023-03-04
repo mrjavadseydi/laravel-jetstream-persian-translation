@@ -8,16 +8,10 @@
     "Profile": "پروفایل",
     "API Tokens": "توکن API",
     "Log Out": "خروج",
-    "This is a secure area of the application. Please confirm your 
-password before continuing.": "این بخش امن است. لطفا برای ادامه تایید رمز 
-عبور خود را وارد کنید.",
+    "This is a secure area of the application. Please confirm your password before continuing.": "این بخش امن است. لطفا برای ادامه تایید رمز عبور خود را وارد کنید.",
     "Password": "رمز عبور",
     "Confirm": "تایید",
-    "Forgot your password? No problem. Just let us know your email address 
-and we will email you a password reset link that will allow you to choose 
-a new one.": "رمز عبور خود را فراموش کرده اید؟ هیچ برحسب آن نیست. تنها با 
-ایمیل خود با ما تماس بگیرید و ما به شما یک لینک بازنشانی رمز عبور ارسال می 
-کنیم که به شما اجازه می دهد تا یک رمز عبور جدید انتخاب کنید.",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "رمز عبور خود را فراموش کرده اید؟ هیچ برحسب آن نیست. تنها با ایمیل خود با ما تماس بگیرید و ما به شما یک لینک بازنشانی رمز عبور ارسال می کنیم که به شما اجازه می دهد تا یک رمز عبور جدید انتخاب کنید.",
     "Email": "ایمیل",
     "Email Password Reset Link": "ارسال لینک بازنشانی رمز عبور",
     "Remember me": "مرا به خاطر بسپار",
@@ -25,179 +19,100 @@ a new one.": "رمز عبور خود را فراموش کرده اید؟ هیچ 
     "Log in": "ورود",
     "Name": "نام",
     "Confirm Password": "تایید رمز عبور",
-    "I agree to the :terms_of_service and :privacy_policy": "من با 
-:terms_of_service و :privacy_policy موافقم",
+    "I agree to the :terms_of_service and :privacy_policy": "من با :terms_of_service و :privacy_policy موافقم",
     "Terms of Service": "شرایط خدمات",
     "Privacy Policy": "سیاست حفظ حریم خصوصی",
     "Already registered?": "قبلا ثبت نام کرده اید؟",
     "Register": "ثبت نام",
     "Reset Password": "بازنشانی رمز عبور",
-    "Please confirm access to your account by entering the authentication 
-code provided by your authenticator application.": "لطفا برای تایید دسترسی 
-به حساب خود با وارد کردن کد احراز هویتی که به شما ارسال شده است 
-بفرمایید.",
-    "Please confirm access to your account by entering one of your 
-emergency recovery codes.": "لطفا برای تایید دسترسی به حساب خود با وارد 
-کردن یکی از کدهای بازیابی ضروری بفرمایید.",
+    "Please confirm access to your account by entering the authentication code provided by your authenticator application.": "لطفا برای تایید دسترسی به حساب خود با وارد کردن کد احراز هویتی که به شما ارسال شده است بفرمایید.",
+    "Please confirm access to your account by entering one of your emergency recovery codes.": "لطفا برای تایید دسترسی به حساب خود با وارد کردن یکی از کدهای بازیابی ضروری بفرمایید.",
     "Code": "کد",
     "Recovery Code": "کد بازیابی ضروری",
     "Use a recovery code": "از کد بازیابی ضروری استفاده کنید",
     "Use an authentication code": "از کد احراز هویتی استفاده کنید",
-    "Thanks for signing up! Before getting started, could you verify your 
-email address by clicking on the link we just emailed to you? If you 
-didn't receive the email, we will gladly send you another.": "با عضویت شما 
-سپاسگزاریم! قبل از شروع، آیا می توانید ایمیل خود را تایید کنید با کلیک 
-کردن بر روی لینکی که به شما ارسال شده است ؟ اگر آیتمی از ایمیل دریافت 
-نکردید، ما با سپاسگزاریم تا شما یکی دیگر ارسال کنیم.",
-    "A new verification link has been sent to the email address you 
-provided during registration.": "یک لینک تایید جدید به ایمیلی که در ثبت 
-نام کرده اید ارسال شده است.",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "با عضویت شما سپاسگزاریم! قبل از شروع، آیا می توانید ایمیل خود را تایید کنید با کلیک کردن بر روی لینکی که به شما ارسال شده است ؟ اگر آیتمی از ایمیل دریافت نکردید، ما با سپاسگزاریم تا شما یکی دیگر ارسال کنیم.",
+    "A new verification link has been sent to the email address you provided during registration.": "یک لینک تایید جدید به ایمیلی که در ثبتنام کرده اید ارسال شده است.",
     "Resend Verification Email": "ارسال مجدد ایمیل تایید",
     "Delete Account": "حذف حساب",
     "Permanently delete your account.": "حساب شما به طور دائمی حذف شود.",
-    "Once your account is deleted, all of its resources and data will be 
-permanently deleted. Before deleting your account, please download any 
-data or information that you wish to retain.": "هنگامی که حساب شما حذف شد، 
-تمام منابع و داده های آن به طور دائمی حذف خواهند شد. قبل از حذف حساب خود، 
-لطفا تمام داده های یا اطلاعاتی که می خواهید باقی بماند را دانلود کنید.",
-    "Are you sure you want to delete your account? Once your account is 
-deleted, all of its resources and data will be permanently deleted. Please 
-enter your password to confirm you would like to permanently delete your 
-account.": "آیا مطمئن هستید که می خواهید حساب خود را حذف کنید؟ هنگامی که 
-حساب شما حذف شد، تمام منابع و داده های آن به طور دائمی حذف خواهند شد. لطفا 
-رمز عبور خود را وارد کنید تا تایید کنید که می خواهید حساب خود را به طور 
-دائمی حذف کنید.",
+    "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "هنگامی که حساب شما حذف شد، تمام منابع و داده های آن به طور دائمی حذف خواهند شد. قبل از حذف حساب خود، لطفا تمام داده های یا اطلاعاتی که می خواهید باقی بماند را دانلود کنید.",
+    "Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "آیا مطمئن هستید که می خواهید حساب خود را حذف کنید؟ هنگامی که حساب شما حذف شد، تمام منابع و داده های آن به طور دائمی حذف خواهند شد. لطفا رمز عبور خود را وارد کنید تا تایید کنید که می خواهید حساب خود را به طور دائمی حذف کنید.",
     "Cancel": "لغو",
     "Browser Sessions": "جلسات مرورگر",
-    "Manage and log out your active sessions on other browsers and 
-devices.": "مدیریت و خروج از جلسات فعال شما در مرورگرها و دستگاه های 
-دیگر.",
-    "If necessary, you may log out of all of your other browser sessions 
-across all of your devices. Some of your recent sessions are listed below; 
-however, this list may not be exhaustive. If you feel your account has 
-been compromised, you should also update your password.": "اگر لازم است، 
-می توانید از جلسات مرورگرهای دیگر در تمام دستگاه های خود خروج کنید. برخی 
-از جلسات تازه شما در زیر نمایش داده شده است؛ اما این لیست ممکن است تکمیل 
-نشده باشد. اگر شما آگاهی دارید که حساب شما تزریق شده است، شما باید تغییرات 
-خود را به روز رسانی کنید.",
+    "Manage and log out your active sessions on other browsers and devices.": "مدیریت و خروج از جلسات فعال شما در مرورگرها و دستگاه های دیگر.",
+    "If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.": "اگر لازم است، می توانید از جلسات مرورگرهای دیگر در تمام دستگاه های خود خروج کنید. برخی از جلسات تازه شما در زیر نمایش داده شده است؛ اما این لیست ممکن است تکمیل نشده باشد. اگر شما آگاهی دارید که حساب شما تزریق شده است، شما باید تغییرات خود را به روز رسانی کنید.",
     "This device": "این دستگاه",
     "Last active": "آخرین فعال",
     "Log Out Other Browser Sessions": "خروج از جلسات مرورگرهای دیگر",
     "Done.": "انجام شد.",
-    "Please enter your password to confirm you would like to log out of 
-your other browser sessions across all of your devices.": "لطفا رمز عبور 
-خود را وارد کنید تا تایید کنید که می خواهید از جلسات مرورگرهای دیگر در 
-تمام دستگاه های خود خروج کنید.",
+    "Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.": "لطفا رمز عبور خود را وارد کنید تا تایید کنید که می خواهید از جلسات مرورگرهای دیگر در تمام دستگاه های خود خروج کنید.",
     "Two Factor Authentication": "تایید دو مرحله ای",
-    "Add additional security to your account using two factor 
-authentication.": "افزودن امنیت بیشتر به حساب شما با استفاده از تایید دو 
-مرحله ای.",
-    "You have enabled two factor authentication.": "شما تایید دو مرحله ای 
-را فعال کرده اید.",
-    "You have not enabled two factor authentication.": "شما تایید دو مرحله 
-ای را فعال نکرده اید.",
-    "When two factor authentication is enabled, you will be prompted for a 
-secure, random token during authentication. You may retrieve this token 
-from your phone's Google Authenticator application.": "هنگامی که تایید دو 
-مرحله ای فعال شده است، شما برای یک توکن حفظه ای به طور تصادفی در حین تایید 
-درخواست خواهید شد. شما می توانید این توکن را از برنامه Google 
-Authenticator شماره تلفن خود دریافت کنید.",
-    "Two factor authentication is now enabled. Scan the following QR code 
-using your phone's authenticator application.": "احراز هویت دو مرحله ای 
-فعال شد. با استفاده از برنامه احراز هویت شماره تلفن خود با استفاده از کد 
-QR زیر احراز هویت خود را تایید کنید.",
-    "Store these recovery codes in a secure password manager. They can be 
-used to recover access to your account if your two factor authentication 
-device is lost.": "این توکن ها را در یک مدیر رمز عبور حفظ شده ذخیره کنید. 
-آنها می توانند برای بازیابی دسترسی به حساب شما اگر دستگاه تایید دو مرحله 
-ای شما فراموش شده باشد.",
+    "Add additional security to your account using two factor authentication.": "افزودن امنیت بیشتر به حساب شما با استفاده از تایید دو مرحله ای.",
+    "You have enabled two factor authentication.": "شما تایید دو مرحله ای را فعال کرده اید.",
+    "You have not enabled two factor authentication.": "شما تایید دو مرحله ای را فعال نکرده اید.",
+    "When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.": "هنگامی که تایید دو مرحله ای فعال شده است، شما برای یک توکن حفظه ای به طور تصادفی در حین تایید درخواست خواهید شد. شما می توانید این توکن را از برنامه Google Authenticator شماره تلفن خود دریافت کنید.",
+    "Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.": "احراز هویت دو مرحله ایفعال شد. با استفاده از برنامه احراز هویت شماره تلفن خود با استفاده از کد QR زیر احراز هویت خود را تایید کنید.",
+    "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "این توکن ها را در یک مدیر رمز عبور حفظ شده ذخیره کنید. آنها می توانند برای بازیابی دسترسی به حساب شما اگر دستگاه تایید دو مرحله ای شما فراموش شده باشد.",
     "Enable": "فعال کردن",
     "Regenerate Recovery Codes": "تولید مجدد توکن های بازیابی",
     "Show Recovery Codes": "نمایش توکن های بازیابی",
     "Disable": "غیرفعال کردن",
     "Update Password": "بروزرسانی رمز عبور",
-    "Ensure your account is using a long, random password to stay 
-secure.": "اطمینان حاصل کنید که حساب شما با یک رمز عبور طولانی و تصادفی 
-استفاده می کند.",
+    "Ensure your account is using a long, random password to stay secure.": "اطمینان حاصل کنید که حساب شما با یک رمز عبور طولانی و تصادفی استفاده می کند.",
     "Current Password": "رمز عبور فعلی",
     "New Password": "رمز عبور جدید",
     "Saved.": "ذخیره شد.",
     "Save": "ذخیره",
     "Profile Information": "اطلاعات پروفایل",
-    "Update your account's profile information and email address.": 
-"بروزرسانی اطلاعات پروفایل حساب شما و آدرس ایمیل.",
+    "Update your account's profile information and email address.":
+    "بروزرسانی اطلاعات پروفایل حساب شما و آدرس ایمیل.",
     "Photo": "عکس",
     "Select A New Photo": "انتخاب عکس جدید",
     "Remove Photo": "حذف عکس",
     "Team Details": "جزئیات تیم",
-    "Create a new team to collaborate with others on projects.": "ایجاد یک 
-تیم جدید برای گروه بندی با دیگران در پروژه ها.",
+    "Create a new team to collaborate with others on projects.": "ایجاد یک تیم جدید برای گروه بندی با دیگران در پروژه ها.",
     "Team Owner": "مالک تیم",
     "Team Name": "نام تیم",
     "Create": "ایجاد",
     "Create Team": "ایجاد تیم",
     "Delete Team": "حذف تیم",
     "Permanently delete this team.": "حذف دائمی این تیم.",
-    "Once a team is deleted, all of its resources and data will be 
-permanently deleted. Before deleting this team, please download any data 
-or information regarding this team that you wish to retain.": "هنگامی که 
-یک تیم حذف شده است، تمام منابع و داده های آن به طور دائمی حذف خواهند شد. 
-قبل از حذف این تیم، لطفا تمام داده های یا اطلاعات در مورد این تیم را که می 
-خواهید باقی بمانید دانلود کنید.",
-    "Are you sure you want to delete this team? Once a team is deleted, 
-all of its resources and data will be permanently deleted.": "آیا از حذف 
-این تیم اطمینان دارید؟ هنگامی که یک تیم حذف شده است، تمام منابع و داده های 
-آن به طور دائمی حذف خواهند شد.",
+    "Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.": "هنگامی که یک تیم حذف شده است، تمام منابع و داده های آن به طور دائمی حذف خواهند شد. قبل از حذف این تیم، لطفا تمام داده های یا اطلاعات در مورد این تیم را که می خواهید باقی بمانید دانلود کنید.",
+    "Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.": "آیا از حذف این تیم اطمینان دارید؟ هنگامی که یک تیم حذف شده است، تمام منابع و داده هایآن به طور دائمی حذف خواهند شد.",
     "Add Team Member": "اضافه کردن یک عضو تیم",
-    "Add a new team member to your team, allowing them to collaborate with 
-you.": "اضافه کردن یک عضو تیم جدید به تیم شما، تا آنها بتوانند با شما گروه 
-بندی کنند.",
-    "Please provide the email address of the person you would like to add 
-to this team.": "لطفا آدرس ایمیل شخصی که می خواهید به این تیم اضافه کنید 
-را وارد کنید.",
+    "Add a new team member to your team, allowing them to collaborate with you.": "اضافه کردن یک عضو تیم جدید به تیم شما، تا آنها بتوانند با شما گروه بندی کنند.",
+    "Please provide the email address of the person you would like to add to this team.": "لطفا آدرس ایمیل شخصی که می خواهید به این تیم اضافه کنید را وارد کنید.",
     "Role": "نقش",
     "Added.": "اضافه شد.",
     "Add": "اضافه کردن",
     "Pending Team Invitations": "دعوت به تیم های در انتظار",
-    "These people have been invited to your team and have been sent an 
-invitation email. They may join the team by accepting the email 
-invitation.": "این افراد به تیم شما دعوت شده اند و یک ایمیل دعوت به تیم به 
-آنها ارسال شد. آنها می توانند به تیم با پذیرفتن دعوت به تیم بقیه با ایمیل 
-دعوت شوند.",
+    "These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.": "این افراد به تیم شما دعوت شده اند و یک ایمیل دعوت به تیم به آنها ارسال شد. آنها می توانند به تیم با پذیرفتن دعوت به تیم بقیه با ایمیل دعوت شوند.",
     "Team Members": "اعضای تیم",
-    "All of the people that are part of this team.": "همه ی افرادی که به 
-عنوان عضویت در این تیم هستند.",
+    "All of the people that are part of this team.": "همه ی افرادی که به عنوان عضویت در این تیم هستند.",
     "Leave": "ترک",
     "Remove": "حذف",
     "Manage Role": "مدیریت نقش",
     "Leave Team": "ترک تیم",
-    "Are you sure you would like to leave this team?": "آیا از ترک این تیم 
-اطمینان دارید؟",
+    "Are you sure you would like to leave this team?": "آیا از ترک این تیم اطمینان دارید؟",
     "Remove Team Member": "حذف یک عضو تیم",
-    "Are you sure you would like to remove this person from the team?": 
-"آیا از حذف این شخص از تیم اطمینان دارید؟",
+    "Are you sure you would like to remove this person from the team?":
+    "آیا از حذف این شخص از تیم اطمینان دارید؟",
     "The team's name and owner information.": "اطلاعات نام و مالک تیم.",
     "Create API Token": "ایجاد یک توکن API",
-    "API tokens allow third-party services to authenticate with our 
-application on your behalf.": "توکن API به خدمات سایر به صورت خودکار با 
-برنامه شما تأیید می کند.",
+    "API tokens allow third-party services to authenticate with our application on your behalf.": "توکن API به خدمات سایر به صورت خودکار با برنامه شما تأیید می کند.",
     "Token Name": "عنوان توکن",
     "Permissions": "دسترسی ها",
     "Created.": "ایجاد شد.",
     "Manage API Tokens": "مدیریت توکن های API",
-    "You may delete any of your existing tokens if they are no longer 
-needed.": "شما می توانید توکن های موجود را حذف کنید اگر آنها بیشتر از آن 
-است که به شما لازم است.",
+    "You may delete any of your existing tokens if they are no longer needed.": "شما می توانید توکن های موجود را حذف کنید اگر آنها بیشتر از آن است که به شما لازم است.",
     "Last used": "اخرین استفاده",
     "Delete": "حذف",
     "API Token": "توکن API",
-    "Please copy your new API token. For your security, it won't be shown 
-again.": "لطفا توکن جدید خود را کپی کنید. برای امنیت، این توکن دیگر نمایش 
-داده نخواهد شد.",
+    "Please copy your new API token. For your security, it won't be shown again.": "لطفا توکن جدید خود را کپی کنید. برای امنیت، این توکن دیگر نمایش داده نخواهد شد.",
     "Close": "بستن",
     "API Token Permissions": "دسترسی های  توکن API",
     "Delete API Token": "حذف توکن API",
-    "Are you sure you would like to delete this API token?": "از حذف این 
-توکن API مطمئن هستید؟"
+    "Are you sure you would like to delete this API token?": "از حذف این توکن API مطمئن هستید؟"
 }
 
